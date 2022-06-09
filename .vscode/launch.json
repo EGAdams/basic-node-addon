@@ -8,9 +8,9 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/<your program>",
-            "args": [],
-            "cwd": "${workspaceFolder}"
+            "preLaunchTask": "npm: build:dev",
+            "program": "/Users/EG/AppData/Roaming/nvm/v14.17.6/node",
+            "args": ["/Users/EG/Desktop/2022/june/2nd_week/basic-node-addon/index.js"],
         }
     ]
 }
