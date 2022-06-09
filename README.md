@@ -6,7 +6,7 @@ The actual blog post is at:
 
 https://medium.com/@atulanand94/debugging-nodejs-c-addons-using-vs-code-27e9940fc3ad
 
-**Requriements:**
+**Requirements:**
 
 - Node v10
 
@@ -17,5 +17,3 @@ https://medium.com/@atulanand94/debugging-nodejs-c-addons-using-vs-code-27e9940f
 3. `npm run rebuild:dev`
 4. `npm run start`
 
-
-Hope this helps someone !! 🌮
